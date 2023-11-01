@@ -64,4 +64,10 @@ public class Student
         this.setCourse(scanner.nextLine());
 
     }
+    public void displayUserInput()
+    {
+        System.out.println("    Name:       " + getName());
+        System.out.println("    Email:      " + getEmail());
+        System.out.println("    Course:     " + getCourse() + "\n");
+    }
 }
