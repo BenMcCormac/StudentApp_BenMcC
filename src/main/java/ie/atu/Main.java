@@ -20,7 +20,7 @@ public class Main
 
         Two.getUserInput();
 
-        System.out.println("\nStudent No.2\n");
+        System.out.println("\nStudent No.3\n");
         Student Three = new Student();
 
         Three.getUserInput();
