@@ -34,5 +34,6 @@ public class Main
 
         System.out.println("The Third student's info is:\n");
         Three.displayUserInput();
+
     }
 }
